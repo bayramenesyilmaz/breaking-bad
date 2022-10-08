@@ -3,7 +3,7 @@
 
 Proje Link : [Patika](https://app.patika.dev/courses/redux/giris-breaking-bad-app)
 
-Live : [Breaking Bad App](https://bayramenesyilmaz.github.io/breaking-bad-app/)
+Live : [Breaking Bad App](https://bayramenesyilmaz.github.io/breaking-bad/)
 
 
 ![BB](./img/ss1.png)

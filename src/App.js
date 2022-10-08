@@ -13,7 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="/breaking-bad-app" element={<Home/>} />
+          <Route path="/breaking-bad" element={<Home/>} />
           <Route path="/detail/:char_id" element={<Detail />} />
           <Route path="/quotes" element={<Quotes />} />
           <Route path="/quotes/:quote_id" element={<QuotesDetail />} />

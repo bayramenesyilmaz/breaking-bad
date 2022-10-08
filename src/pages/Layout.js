@@ -6,13 +6,13 @@ function Layout() {
             <nav>
                 <ul>
                     <li>
-                        <Link className="navlink" to="/breaking-bad-app">Characters</Link>
+                        <Link className="navlink" to="/breaking-bad">Characters</Link>
                     </li>
                     <li>
                         <Link className="navlink" to="/quotes">Quotes</Link>
                     </li>
                 </ul>
-                <Link to="/breaking-bad-app" className="nav-logo">
+                <Link to="/breaking-bad" className="nav-logo">
                     <div className="logo-breaking">
                         <strong>Br</strong><span>eaking</span>
                     </div>
